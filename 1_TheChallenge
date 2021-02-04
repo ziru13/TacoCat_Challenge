@@ -1,0 +1,6 @@
+Let's talk about the what, the why, and the how of creating this Tacocat project. We'll talk about running the tests and how to figure out what the tests expect of you. 
+**运行测试,和如何知道测试对你的期待是什么
+
+TestCase: 关于项目某个area的一组tests(A group of tests about a certain area of the project )
+test_: 测试一部分代码的一个test method(A test method that actually tests a part of the code)
+你用python app_tests.py运行测试, 所有有一个 . 的都是好的, 所有由E/F的都需要more work
