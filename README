@@ -43,3 +43,4 @@ Other than that, it's up to you! Do whatever you think this MVP needs!
 *注册, 登入,登出的视图
 * 一个taco的model, 这个taco要有user, 一个protein choice，一个cheese choice，一个shell choice，一个free-form text field for further options
 * 给用户们浏览其他用户最近在首页创建的taco的能力
+*********
