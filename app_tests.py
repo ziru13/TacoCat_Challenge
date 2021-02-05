@@ -15,7 +15,7 @@ USER_DATA = {
     'password': 'password'
 }
 
-MODELS = (User,)
+MODELS = (User, Taco,)
 
 
 # Bind the given models to the db for the duration of wrapped block.
